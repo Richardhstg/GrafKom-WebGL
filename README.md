@@ -4,6 +4,10 @@ Richard Sitanggang
 
 5025221117
 
+### Web
+
+https://richardhstg.github.io/GrafKom-WebGL/
+
 ### Preview
 ![image](https://github.com/user-attachments/assets/56c951de-080e-46c4-829f-e61e252166e0)
 
